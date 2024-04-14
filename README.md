@@ -1,6 +1,12 @@
 # OneMinuteTrainer
 
-OneMinuteTrainer is a web-based interval training timer that provides both visual and auditory cues to guide users through their training sessions. It features a simple yet powerful interface that flashes the screen at specific intervals and plays distinct sounds to denote different phases of the training minute.
+OneMinuteTrainer is a web-based interval training timer that provides both visual and auditory cues to guide users through their training sessions. It features a simple interface that flashes the screen at specific intervals and plays distinct sounds to denote different phases of the training minute.
+
+### Check it out here: https://timer.rudyfaile.com/
+
+## Video Demo:
+
+[![Screenshot 2024-04-14 at 1 05 28 PM](https://github.com/rfaile313/OneMinuteTrainer/assets/13829168/ead3f7f3-4df0-4e43-b6f5-cccd1d07fc86)](https://www.youtube.com/watch?v=xQVT3jyMCUI)
 
 ## Features
 
