@@ -8,7 +8,7 @@ function startTimer() {
         isPaused = false;
         if (justStarted) {
             playSound('boxing-round-bell.mp3');
-            flashColor('green', 500);  // Flash green on start
+            flashColor('green', 5000);  // Flash green on start
             justStarted = false;
         }
         if (!timerInterval) {
@@ -49,7 +49,7 @@ function updateDisplay(minutes, seconds) {
 function checkTimeEvents(seconds, minutes) {
     if (seconds === 0 && totalSeconds !== 0) {
         playSound('boxing-round-bell.mp3');
-        flashColor('green', 500);
+        flashColor('green', 5000);
     } else if (seconds >= 50 && seconds % 2 === 0) {
         playSound('censor-beep-1.mp3');
         flashColor('red', 1000);
